@@ -1,2 +1,2 @@
 mock:
-	mockery --all --keeptreemake
+	mockery --all --keeptree
